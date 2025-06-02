@@ -1,0 +1,5 @@
+2025/05/26-23:57:25.931 1c22c Creating DB C:\Users\10185\Downloads\bilibili\edge_user_data_profile_for_script_1748275037\Default\EdgeCoupons/coupons_data.db since it was missing.
+2025/05/26-23:57:25.936 1c22c Reusing MANIFEST C:\Users\10185\Downloads\bilibili\edge_user_data_profile_for_script_1748275037\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2025/05/26-23:57:26.418 23688 Level-0 table #5: started
+2025/05/26-23:57:26.422 23688 Level-0 table #5: 670793 bytes OK
+2025/05/26-23:57:26.424 23688 Delete type=0 #3

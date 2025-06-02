@@ -1,0 +1,94 @@
+{
+   "checksum": "202a25b34ed97578cc8647963de14243",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13392748638727196",
+            "date_last_used": "0",
+            "guid": "adcf87bb-e0bf-476e-bf6a-f262d83d8d74",
+            "id": "10",
+            "name": "百度",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=baidu&c=231&locale=*&pf=*&tp=edge&TYPE=3",
+            "visit_count": 0
+         }, {
+            "date_added": "13392748638727005",
+            "date_last_used": "0",
+            "guid": "9188927f-5238-48e7-8971-154f1fdcfd98",
+            "id": "9",
+            "name": "惠普官网",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=hpch&c=231&locale=*&pf=*&tp=edge&TYPE=3",
+            "visit_count": 0
+         }, {
+            "date_added": "13392748638726865",
+            "date_last_used": "0",
+            "guid": "327b3864-56ab-4f3c-a7e6-dc12c69f96cc",
+            "id": "8",
+            "name": "惠普商城",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=hpsh&c=231&locale=*&pf=*&tp=edge&TYPE=3",
+            "visit_count": 0
+         }, {
+            "date_added": "13392748638726453",
+            "date_last_used": "0",
+            "guid": "5ab79c90-73af-400b-bc61-98b6df6496c9",
+            "id": "7",
+            "name": "McAfee Security",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/hp.html",
+            "visit_count": 0
+         }, {
+            "date_added": "13392748638726095",
+            "date_last_used": "0",
+            "guid": "3e889432-8359-466e-b8f7-a3dbfc29a6f0",
+            "id": "6",
+            "name": "Agoda",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=agoda&c=231&locale=*&pf=*&tp=edge&TYPE=3",
+            "visit_count": 0
+         } ],
+         "date_added": "13392748638544250",
+         "date_last_used": "0",
+         "date_modified": "13392748638727196",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "收藏夹栏",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13392748638544251",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "其他收藏夹",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13392748638544251",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "移动收藏夹",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
