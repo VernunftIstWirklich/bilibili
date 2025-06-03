@@ -1,8 +1,12 @@
+bilibili-api-python
+selenium
+jieba
+snownlp
+matplotlib
+wordcloud
+pandas
+httpx
 requests
 beautifulsoup4
 lxml
-matplotlib
-wordcloud
-snownlp
-pandas
 pyecharts
